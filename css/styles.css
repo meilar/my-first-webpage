@@ -1,0 +1,10 @@
+
+body {
+  margin-left: 300px;
+  margin-top: 50px;
+  font-family: 'Josefin Sans', sans-serif;
+  background-color: #abc6f2;
+  text-shadow: 1px 1px gray;
+  color: orange;
+  font-size: 200%;
+}
